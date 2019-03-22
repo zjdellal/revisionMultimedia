@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.181" xmlns:fx="http://javafx.com/fxml/1" fx:controller="binding.Controller">
+   <children>
+      <Slider fx:id="slider" layoutX="190.0" layoutY="56.0" prefHeight="16.0" prefWidth="153.0" />
+      <TextField fx:id="text" layoutX="187.0" layoutY="79.0" />
+      <TextField fx:id="txtSomme1" layoutX="186.0" layoutY="125.0" />
+      <TextField fx:id="txtSomme2" layoutX="186.0" layoutY="174.0" />
+      <Label layoutX="109.0" layoutY="229.0" text="Résultat : " />
+      <Label fx:id="lblResult" layoutX="186.0" layoutY="229.0" prefHeight="16.0" prefWidth="171.0" />
+      <Label layoutX="261.0" layoutY="151.0" text="+" />
+      <Label layoutX="261.0" layoutY="200.0" text="=" />
+      <Label layoutX="261.0" layoutY="105.0" text="+" />
+      <Label fx:id="lblBas" layoutX="162.0" layoutY="287.0" prefHeight="50.0" prefWidth="235.0" text="Manchester United....!!!! =D ." />
+   </children>
+</AnchorPane>

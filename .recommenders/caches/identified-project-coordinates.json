@@ -1,0 +1,1 @@
+[[{"location":"/opt/dev/java/workspaces/workspace-revision/RevisionBinding","type":"PROJECT","hints":{"PROJECT_NAME":"RevisionBinding"}},"ABSENT"],[{"location":"/opt/dev/java/jdks/jdk1.8.0_181/jre/lib/ext/jfxrt.jar","type":"JAR","hints":{}},"ABSENT"],[{"location":"/opt/dev/java/jdks/jdk1.8.0_181","type":"JRE","hints":{"EXECUTION_ENVIRONMENT":"JavaSE-1.8"}},"jre:jre:1.8.0"]]
